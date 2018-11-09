@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="user_input">Enter value in meter</string>
+    <string name="convert">Convert</string>
+</resources>
